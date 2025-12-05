@@ -77,4 +77,4 @@ Key dependencies (see `requirements.txt` for versions): [file:155]
 
 
 Demo-Video link:
-https://drive.google.com/file/d/1pqb09AvIkC7lLN1lIlTCBE9LlnyrQPtp/view?usp=drive_link
+https://drive.google.com/file/d/1OTy2hi9a1R6VGAkm-1HXSmF5IGwqwzyN/view?usp=sharing
