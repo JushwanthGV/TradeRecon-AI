@@ -71,7 +71,6 @@ Key dependencies (see `requirements.txt` for versions): [file:155]
 - `openpyxl`  
 - `reportlab`
 
-Install with:
 
 
 
